@@ -303,6 +303,71 @@
 		<false/>
 		<key>Properties</key>
 		<dict>
+			<key>#PciRoot(0x0)/Pci(0x3,0x0)</key>
+			<dict>
+				<key>#MaximumBootBeepVolume</key>
+				<integer>0</integer>
+				<key>#PinConfigurations</key>
+				<integer>0</integer>
+				<key>#layout-id</key>
+				<data>
+				YQAAAA==
+				</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x14,0x0)</key>
+			<dict>
+				<key>AAPL,clock-id</key>
+				<data>
+				AA==
+				</data>
+				<key>AAPL,current-available</key>
+				<data>
+				NAg=
+				</data>
+				<key>AAPL,current-extra</key>
+				<data>
+				gAw=
+				</data>
+				<key>AAPL,current-in-sleep</key>
+				<data>
+				6AM=
+				</data>
+				<key>built-in</key>
+				<data>
+				AA==
+				</data>
+				<key>device_type</key>
+				<data>
+				WEhDSQ==
+				</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1a,0x0)</key>
+			<dict>
+				<key>AAPL,clock-id</key>
+				<data>
+				AQ==
+				</data>
+				<key>AAPL,current-available</key>
+				<data>
+				NAg=
+				</data>
+				<key>AAPL,current-extra</key>
+				<data>
+				gAw=
+				</data>
+				<key>AAPL,current-in-sleep</key>
+				<data>
+				6AM=
+				</data>
+				<key>built-in</key>
+				<data>
+				AA==
+				</data>
+				<key>device_type</key>
+				<data>
+				RUhDSQ==
+				</data>
+			</dict>
 			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
 			<dict>
 				<key>#MaximumBootBeepVolume</key>
@@ -312,6 +377,40 @@
 				<key>layout-id</key>
 				<data>
 				YQAAAA==
+				</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1c,0x2)/Pci(0x0,0x2)</key>
+			<dict>
+				<key>built-in</key>
+				<data>
+				AQ==
+				</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1d,0x0)</key>
+			<dict>
+				<key>AAPL,clock-id</key>
+				<data>
+				Ag==
+				</data>
+				<key>AAPL,current-available</key>
+				<data>
+				NAg=
+				</data>
+				<key>AAPL,current-extra</key>
+				<data>
+				gAw=
+				</data>
+				<key>AAPL,current-in-sleep</key>
+				<data>
+				6AM=
+				</data>
+				<key>built-in</key>
+				<data>
+				AA==
+				</data>
+				<key>device_type</key>
+				<data>
+				RUhDSQ==
 				</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
