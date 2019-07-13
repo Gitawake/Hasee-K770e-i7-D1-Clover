@@ -11,6 +11,8 @@
 		</dict>
 		<key>SSDT</key>
 		<dict>
+			<key>DropOem</key>
+			<true/>
 			<key>Generate</key>
 			<dict>
 				<key>APLF</key>
@@ -89,10 +91,6 @@
 				<data>
 				AQAAAA==
 				</data>
-				<key>enable-hdmi-dividers-fix</key>
-				<data>
-				AQAAAA==
-				</data>
 				<key>enable-hdmi20</key>
 				<data>
 				AQAAAA==
@@ -131,7 +129,7 @@
 				</data>
 				<key>framebuffer-con2-preferred-lspcon-mode</key>
 				<data>
-				AAAAAA==
+				AQAAAA==
 				</data>
 				<key>framebuffer-con2-type</key>
 				<data>
@@ -196,6 +194,8 @@
 	<dict>
 		<key>AppleRTC</key>
 		<false/>
+		<key>KernelPm</key>
+		<true/>
 		<key>KextsToPatch</key>
 		<array>
 			<dict>
