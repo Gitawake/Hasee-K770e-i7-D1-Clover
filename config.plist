@@ -25,7 +25,6 @@
 		</dict>
 		<key>SortedOrder</key>
 		<array>
-			<string>SSDT.aml</string>
 			<string>SSDT-0.aml</string>
 			<string>SSDT-1.aml</string>
 			<string>SSDT-2.aml</string>
@@ -39,12 +38,22 @@
 	<dict>
 		<key>Arguments</key>
 		<string>arch=x86_64 nv_disable=1 kext-dev-mode=1</string>
+		<key>Debug</key>
+		<false/>
 		<key>DefaultVolume</key>
 		<string>MacOS</string>
+		<key>DisableCloverHotkeys</key>
+		<false/>
 		<key>Legacy</key>
 		<string>LegacyBiosDefault</string>
+		<key>NeverDoRecovery</key>
+		<false/>
+		<key>RtcHibernateAware</key>
+		<false/>
+		<key>SkipHibernateTimeout</key>
+		<false/>
 		<key>Timeout</key>
-		<integer>3</integer>
+		<integer>5</integer>
 		<key>XMPDetection</key>
 		<false/>
 	</dict>
@@ -141,7 +150,7 @@
 				</data>
 				<key>framebuffer-fbmem</key>
 				<data>
-				AAAAAw==
+				AACQAA==
 				</data>
 				<key>framebuffer-patch-enable</key>
 				<data>
@@ -153,7 +162,7 @@
 				</data>
 				<key>framebuffer-stolenmem</key>
 				<data>
-				AAAACA==
+				AAAwAQ==
 				</data>
 			</dict>
 		</dict>
