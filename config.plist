@@ -98,6 +98,14 @@
 				<data>
 				AQAAAA==
 				</data>
+				<key>framebuffer-con0-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-con0-pipe</key>
+				<data>
+				EgAAAA==
+				</data>
 				<key>framebuffer-con1-enable</key>
 				<data>
 				AQAAAA==
@@ -118,21 +126,9 @@
 				<data>
 				AQAAAA==
 				</data>
-				<key>framebuffer-con2-has-lspcon</key>
-				<data>
-				AQAAAA==
-				</data>
 				<key>framebuffer-con2-index</key>
 				<data>
 				/////w==
-				</data>
-				<key>framebuffer-con2-preferred-lspcon-mode</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>framebuffer-con2-type</key>
-				<data>
-				AAgAAA==
 				</data>
 				<key>framebuffer-cursormem</key>
 				<data>
