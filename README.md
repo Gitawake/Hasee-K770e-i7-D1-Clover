@@ -7,7 +7,7 @@
 # 硬盘：128GSSD+512SSD+1THDD
 # 声卡：ALC892
 # 网卡：BCM94352HMB
-# 操作系统：macOS Mojave 10.14.4 + win10 TLSB + Ubuntu 18.04.2 LTS
+# 操作系统：MacOS Catalina 10.15.3 + win10 TLSB + Ubuntu 18.04.2 LTS
 # 
 # 
 # 已知问题：
